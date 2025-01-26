@@ -1,4 +1,4 @@
-package com.generation.blogpessoal.model.repository;
+package com.generation.blogpessoal.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
